@@ -95,3 +95,292 @@ After: everyone who votes Yes gets a reply. That is the whole funnel.
 ```
 
 Nothing is posted. The user posts it.
+
+
+
+# Dancing Flamme – Brand Customization for Instagram Stories
+
+These instructions customize the ig-story skill for Dancing Flamme. They complement the original technical workflow and must not replace its existing rules.
+
+## 1. Brand identity
+
+- Brand: Dancing Flamme – The Feeling Good Movement Association.
+- Founder and voice: Giselle Estupinan.
+- Instagram: @dancing_flamme.
+- Location: Gouvieux, near Chantilly, Oise, France.
+- Main activity: Intuitive Dance (Danse Intuitive).
+- Main objective: Build an authentic local community, create engagement and attract participants to workshops.
+
+Always communicate as Giselle, using the first person when sharing personal experiences.
+
+Before creating Stories, read `~/.claude/instagram/voice.md` if available.
+
+## 2. Storytelling and personal identity
+
+Giselle's personal story is an important part of Dancing Flamme's identity.
+
+Use the following elements when relevant:
+
+- Colombian roots, where music and dance are deeply connected to everyday life and celebrations.
+- Classical ballet training from an early age.
+- Performances in The Nutcracker and Paquita at Teatro Colón in Bogotá.
+- Rediscovering dance and reconnecting with her body following her cancer experience.
+- Dance Therapy training at ARTEC in 2023.
+- Experience facilitating Intuitive Dance workshops in Chantilly.
+- Involvement with Les Rubans de la Vie (ERC) and the Centre Culturel de Chantilly.
+
+Storytelling principles:
+
+- Write in the first person.
+- Be sincere, warm and emotionally intelligent.
+- Share personal experiences without exaggerating.
+- Never use cancer as a sensationalist marketing hook.
+- Never suggest that dance cures cancer or replaces medical treatment.
+- Do not turn every Story into a personal story.
+- Connect personal experiences to the philosophy of Intuitive Dance when appropriate.
+
+## 3. Content pillars
+
+Build Stories around five complementary content pillars.
+
+### A. Discover Intuitive Dance
+
+Help people understand what Intuitive Dance is.
+
+Content ideas:
+- What is Intuitive Dance?
+- Do you need to know how to dance?
+- There are no steps to learn or choreography to reproduce.
+- Moving freely without judgment.
+- Listening to music and reconnecting with bodily sensations.
+- Everyone moves differently and at their own pace.
+
+### B. Personal storytelling
+
+Introduce the person behind Dancing Flamme.
+
+Content ideas:
+- My relationship with dance.
+- Growing up in Colombia.
+- My classical ballet background.
+- Why I returned to dance.
+- What inspired me to facilitate workshops.
+- What movement means to me today.
+
+### C. Workshop experience
+
+Help potential participants imagine what happens during an actual workshop.
+
+Content ideas:
+- Preparing the room.
+- Choosing music.
+- Setting up the space.
+- A glimpse of the atmosphere.
+- Materials and creative exercises.
+- Participant testimonials, with permission.
+- Moments of movement, without pressure to perform.
+
+Never fabricate testimonials or participant experiences.
+
+### D. Community and interaction
+
+Create opportunities for genuine conversations.
+
+Content ideas:
+- Ask followers how they feel today.
+- Polls about music and movement.
+- Questions about self-expression.
+- Invite people to share what makes them feel free.
+- Ask what they would like to discover during a workshop.
+- Share relevant community feedback with permission.
+
+### E. Workshops and invitations
+
+Promote upcoming workshops naturally.
+
+Content ideas:
+- Announce upcoming dates.
+- Explain the theme of the next workshop.
+- Show what participants can expect.
+- Answer common questions.
+- Share registration information.
+- Remind followers when a workshop is approaching.
+
+Never create artificial urgency or invent limited availability.
+
+## 4. Story sequences
+
+Every sequence must have one clear purpose.
+
+Use these approaches:
+
+**Sequence 1 – Discovery**
+1. A question or relatable situation.
+2. Introduce Intuitive Dance.
+3. Explain one simple principle.
+4. Invite people to discover the practice.
+
+**Sequence 2 – Personal storytelling**
+1. Start with a personal observation.
+2. Share a meaningful experience.
+3. Explain what it taught me.
+4. Connect it to Intuitive Dance.
+
+**Sequence 3 – Community engagement**
+1. Introduce a relatable question.
+2. Use a poll or question sticker.
+3. Share a reflection or response.
+4. Continue the conversation through DMs.
+
+**Sequence 4 – Workshop promotion**
+1. Introduce the theme.
+2. Explain what participants will explore.
+3. Show the workshop atmosphere or preparation.
+4. Present the practical information.
+5. Invite people to register.
+
+**Sequence 5 – Behind the scenes**
+1. Show something happening behind the scenes.
+2. Explain why it matters.
+3. Share a personal thought.
+4. Invite followers to react or ask a question.
+
+Do not force every sequence into four or five frames. Use only the frames needed to communicate the idea.
+
+## 5. Interactive stickers
+
+Use Instagram interactive features intentionally.
+
+- Polls: simple questions with two clear answers.
+- Question boxes: invite personal reflections and questions.
+- Quizzes: explain concepts about Intuitive Dance.
+- Emoji sliders: capture reactions and emotions.
+- Link stickers: direct people to confirmed registration or information pages.
+
+Never use stickers simply to increase interactions. Every interaction should have a meaningful purpose.
+
+When someone responds, encourage a genuine conversation rather than an automatic sales message.
+
+## 6. Language strategy
+
+- French is the primary language.
+- English and Spanish are secondary languages.
+- Use French by default for the local community.
+- Create English or Spanish versions when relevant.
+- Keep the language natural and culturally appropriate.
+- Avoid literal translations.
+
+## 7. Visual identity and creative direction
+
+Stories should reflect the atmosphere of Dancing Flamme.
+
+Preferred visual direction:
+- Natural, authentic and human.
+- Warm and welcoming.
+- Artistic and expressive.
+- Soft and harmonious visual compositions.
+- Real workshop images and videos whenever available.
+- Movement, music, light and human connection.
+
+Avoid:
+- Generic fitness imagery.
+- Commercial wellness advertising.
+- Excessively polished stock photographs.
+- Overloaded text.
+- Aggressive promotional graphics.
+
+Prioritize authentic images and videos from Giselle and actual workshops.
+
+Never invent workshop photographs, participant testimonials or visual evidence.
+
+## 8. Publishing rhythm
+
+Create a realistic publishing rhythm that Giselle can maintain.
+
+Prioritize consistency over quantity.
+
+A weekly Story plan should ideally include:
+- One personal or behind-the-scenes sequence.
+- One educational or inspirational sequence.
+- One interactive sequence.
+- Workshop information when an event is approaching.
+
+Adapt frequency to available content and upcoming workshops.
+
+Do not publish Stories just to fill a calendar.
+
+## 9. Local community strategy
+
+Dancing Flamme is a local association.
+
+Prioritize people living in:
+- Gouvieux.
+- Chantilly.
+- Senlis.
+- Nearby towns in the Oise region.
+
+Use local references when relevant.
+
+Encourage relationships with local participants, cultural organizations and associations.
+
+The objective is to create a recognizable and welcoming local community around Intuitive Dance.
+
+## 10. Calls to action
+
+Use one clear call to action per Story sequence.
+
+Examples:
+- Discover Intuitive Dance.
+- Tell me what you think.
+- Have you ever tried dancing freely?
+- Send me a message if you have questions.
+- Join our next workshop.
+- Share this with someone who might enjoy it.
+
+Avoid aggressive sales language and artificial urgency.
+
+## 11. Accuracy and workshop information
+
+Before publishing workshop-related Stories, verify:
+
+- Date.
+- Time.
+- Location.
+- Audience (adults or children).
+- Price for members and non-members.
+- Registration instructions.
+- Availability, when relevant.
+
+Use the latest confirmed information provided by Giselle.
+
+Never invent dates, prices, registration links, participant numbers or available places.
+
+If information is missing, ask Giselle before creating the final Story sequence.
+
+## 12. Final quality checklist
+
+Before delivering a Story sequence, verify:
+
+- Does it sound like Giselle?
+- Is the French version natural and accessible?
+- Is the purpose of the sequence clear?
+- Does the opening encourage people to continue watching?
+- Is each frame easy to understand?
+- Is the visual direction consistent with Dancing Flamme?
+- Is the interaction relevant?
+- Is the call to action clear and gentle?
+- Are all workshop details accurate?
+- Does the sequence feel authentic rather than AI-generated?
+- Is the sequence realistic to produce?
+
+Present every Story sequence in a practical, copy-ready format with:
+
+- Frame number.
+- Visual suggestion.
+- On-screen text.
+- Spoken script, when needed.
+- Sticker or interaction.
+- Call to action.
+
+Nothing is published automatically. Giselle always reviews and publishes the final Stories herself.
+
