@@ -29,16 +29,15 @@ I create welcoming spaces where people can reconnect with their bodies, release 
 
 My primary audience is women and men living around Gouvieux, Chantilly, Senlis and the surrounding areas.
 
-
 ## My personal story and artistic background
 
-My story is an essential part of my identity and the way I share intuitive dance.
+My personal story is an essential part of my identity and the way I share Intuitive Dance.
 
 ### My Colombian roots
 
-I was born in Colombia, where dance and music are deeply woven into everyday life and celebrations.
+I was born in Colombia, where music and dance are deeply woven into everyday life and celebrations.
 
-Growing up in this culture taught me that dance is much more than an artistic discipline. It is a language of the heart, a way to express emotions, share experiences and create human connections.
+Growing up in this culture taught me that dance is much more than an artistic discipline. It is a language of the heart, a way to express emotions, share joy and create connections with others.
 
 Dance has always been an essential part of my life.
 
@@ -52,25 +51,42 @@ This experience gave me a strong artistic foundation and a deep appreciation for
 
 ### A personal transformation
 
-After many years living in France, my relationship with dance took a new direction following my cancer experience.
+After many years living in France, my relationship with dance took a new direction following my cancer experience in 2022.
 
-Rediscovering dance became an essential step in reconnecting with my body, my sensations and my emotions.
+Rediscovering dance became a way to reconnect with my body, listen to my sensations and find a new relationship with myself.
 
-It was not about performing or achieving perfection anymore. It was about listening to my body, allowing myself to move freely and rediscovering the joy of movement.
+Dance became a personal path of reconnection, expression and freedom.
 
-This experience deeply influenced the way I understand and share dance today.
+### My professional development
 
-### My professional journey
+In 2023, I undertook professional training in Dance Therapy at ARTEC in France.
 
-In 2023, I completed training in Dance Therapy at ARTEC in France.
+This training was a decisive step towards sharing my passion with others and facilitating spaces for expression and exploration through movement.
 
-This training was a decisive step in my journey and helped me develop the skills to facilitate intuitive dance workshops.
+### My experience as a facilitator
 
-I began sharing this approach through workshops in Chantilly and surrounding areas.
+I began facilitating Intuitive Dance workshops in the Chantilly area.
 
-I have also facilitated dance workshops within Les Rubans de la Vie (ERC) and at the Centre Culturel de Chantilly.
+I have shared this approach through workshops with Les Rubans de la Vie (ERC) and at the Centre Culturel de Chantilly.
 
-Today, through Dancing Flamme, I want to offer welcoming spaces where everyone can reconnect with their body, explore movement freely and experience the joy of intuitive dance.
+Today, through Dancing Flamme, I continue to create welcoming spaces where people can reconnect with their bodies, explore their emotions and experience the freedom of movement.
+
+### What my story brings to Dancing Flamme
+
+My journey brings together three important dimensions:
+
+- My Colombian roots and the cultural importance of dance as a language of connection.
+- My classical ballet background and artistic sensitivity.
+- My personal transformation and professional training in Dance Therapy.
+
+These experiences shape my approach to Intuitive Dance.
+
+I believe that everyone can dance, regardless of age, experience or technical ability.
+
+Intuitive Dance is not about performing, looking good or learning choreography. It is about listening to yourself, exploring movement and allowing your body to express what words sometimes cannot.
+
+My personal story should inform the brand's identity without becoming the subject of every publication.
+
 
 ### What makes my approach unique
 
