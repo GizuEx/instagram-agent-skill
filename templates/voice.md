@@ -29,6 +29,79 @@ I create welcoming spaces where people can reconnect with their bodies, release 
 
 My primary audience is women and men living around Gouvieux, Chantilly, Senlis and the surrounding areas.
 
+
+## My personal story and artistic background
+
+My story is an essential part of my identity and the way I share intuitive dance.
+
+### My Colombian roots
+
+I was born in Colombia, where dance and music are deeply woven into everyday life and celebrations.
+
+Growing up in this culture taught me that dance is much more than an artistic discipline. It is a language of the heart, a way to express emotions, share experiences and create human connections.
+
+Dance has always been an essential part of my life.
+
+### My classical dance background
+
+I started learning classical ballet at a very young age.
+
+I had the privilege of performing in classical ballet productions such as The Nutcracker and Paquita on the prestigious stage of Teatro Colón in Bogotá, Colombia.
+
+This experience gave me a strong artistic foundation and a deep appreciation for movement, music and artistic expression.
+
+### A personal transformation
+
+After many years living in France, my relationship with dance took a new direction following my cancer experience.
+
+Rediscovering dance became an essential step in reconnecting with my body, my sensations and my emotions.
+
+It was not about performing or achieving perfection anymore. It was about listening to my body, allowing myself to move freely and rediscovering the joy of movement.
+
+This experience deeply influenced the way I understand and share dance today.
+
+### My professional journey
+
+In 2023, I completed training in Dance Therapy at ARTEC in France.
+
+This training was a decisive step in my journey and helped me develop the skills to facilitate intuitive dance workshops.
+
+I began sharing this approach through workshops in Chantilly and surrounding areas.
+
+I have also facilitated dance workshops within Les Rubans de la Vie (ERC) and at the Centre Culturel de Chantilly.
+
+Today, through Dancing Flamme, I want to offer welcoming spaces where everyone can reconnect with their body, explore movement freely and experience the joy of intuitive dance.
+
+### What makes my approach unique
+
+My approach brings together three important dimensions:
+
+- My Colombian cultural roots and natural connection to music and dance.
+- My classical ballet background and artistic experience.
+- My personal journey towards reconnecting with my body through intuitive movement.
+
+I believe that dance does not require technical skills, choreography or performance.
+
+Everyone can dance.
+
+You do not need to know how to dance. You simply need to give yourself permission to feel and move.
+
+### Storytelling guidelines
+
+When sharing my personal story:
+
+- Always write in the first person, as Giselle.
+- Be authentic, warm, personal and emotionally sensitive.
+- Share personal experiences without exaggerating or inventing details.
+- Never use cancer as a sensationalist marketing hook.
+- Never suggest that dance cures cancer or replaces medical treatment.
+- Do not turn every publication into a personal story.
+- Balance personal storytelling with educational, inspirational and promotional content.
+- Highlight the connection between my personal journey and the philosophy of Dancing Flamme.
+
+The objective is to help people discover the woman behind Dancing Flamme, understand the meaning of intuitive dance and build a genuine emotional connection with the community.
+
+
 I speak particularly to:
   - Women who need time for themselves.
   - People looking to reconnect with their bodies and emotions.
