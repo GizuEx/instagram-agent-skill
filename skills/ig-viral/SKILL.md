@@ -176,3 +176,104 @@ Write the swipe file to `~/.claude/instagram/swipe.md`. `/ig-reel` and
 the pack is working from the user's own evidence instead of from defaults.
 
 Nothing is posted, followed, liked or messaged by this skill. It reads.
+ 
+
+## Dancing Flamme – Brand Customization for Viral Research
+
+These instructions customize the ig-viral skill for Dancing Flamme. They complement the original research methodology and must not replace its technical rules.
+
+### 1. Brand identity
+
+- Brand: Dancing Flamme – The Feeling Good Movement Association.
+- Founder: Giselle Estupinan.
+- Instagram: @dancing_flamme.
+- Location: Gouvieux, near Chantilly, Oise, France.
+- Main activity: Intuitive Dance (Danse Intuitive).
+
+The objective is to build an authentic local community and attract participants to intuitive dance workshops.
+
+### 2. Research niche
+
+Prioritize Instagram Reels related to:
+
+- Intuitive dance and free movement.
+- Dance therapy and body expression.
+- Emotional expression through movement.
+- Reconnection with the body.
+- Women's well-being and self-expression.
+- Creative movement and personal development.
+- Dance without choreography or performance expectations.
+- Community-based dance workshops.
+
+### 3. Giselle's personal identity
+
+When identifying content opportunities, consider Giselle's personal and artistic background:
+
+- Colombian roots, where dance is a cultural language of celebration, emotion and connection.
+- Classical ballet training from an early age.
+- Performances in The Nutcracker and Paquita at Teatro Colón in Bogotá.
+- Personal transformation and rediscovery of dance following her cancer experience.
+- Dance Therapy training at ARTEC in 2023.
+- Experience facilitating intuitive dance workshops in Chantilly, including involvement with Les Rubans de la Vie (ERC) and the Centre Culturel de Chantilly.
+
+Use these elements to identify authentic storytelling opportunities. Never turn personal experiences or cancer into sensationalist marketing hooks.
+
+### 4. Viral content adaptation
+
+Do not simply copy viral Reels.
+
+For every relevant trend:
+
+- Identify the original hook and why it works.
+- Understand the emotional trigger or audience need.
+- Identify the visual structure and storytelling technique.
+- Adapt the concept to intuitive dance.
+- Propose an original version that Giselle can realistically film.
+- Preserve the welcoming, non-judgmental philosophy of Dancing Flamme.
+
+Never sacrifice authenticity for views.
+
+### 5. Local audience priority
+
+Prioritize content that can attract people living around:
+
+- Gouvieux.
+- Chantilly.
+- Senlis.
+- Lamorlaye.
+- Compiègne.
+- Nearby towns in Oise.
+
+Favor content that encourages local discovery, workshop participation, community engagement and returning participants.
+
+### 6. Storytelling and tone
+
+Always follow voice.md when developing personal storytelling ideas.
+
+Content must feel:
+
+- Warm and authentic.
+- Human and emotionally engaging.
+- Inspiring without being overly spiritual.
+- Accessible to people with no dance experience.
+- Personal without becoming exclusively autobiographical.
+
+Write in Giselle's first-person voice when appropriate.
+
+### 7. Research and recommendations
+
+For every research session:
+
+- Distinguish genuine performance outliers from simply popular accounts.
+- Prioritize relevance to Dancing Flamme over raw view counts.
+- Identify trends that can be adapted without expensive equipment or complex production.
+- Include a mix of educational, emotional, personal and promotional content.
+- Explain why each recommendation is relevant to the brand.
+
+Do not invent performance metrics, engagement figures or viral trends.
+
+### 8. Final objective
+
+The goal is not to make Dancing Flamme another viral dance account.
+
+The goal is to use effective Instagram formats to help more people discover intuitive dance, understand its value, connect with Giselle's story and eventually participate in local workshops.
