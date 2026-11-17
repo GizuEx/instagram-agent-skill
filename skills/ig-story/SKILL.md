@@ -317,6 +317,8 @@ Prioritize people living in:
 - Gouvieux.
 - Chantilly.
 - Senlis.
+- Lamorlaye.
+- Compiègne
 - Nearby towns in the Oise region.
 
 Use local references when relevant.
