@@ -100,4 +100,148 @@ CAROUSEL  ·  8 slides
 Caption: Job B, hook in line 1, one ask, 3 tags.
 ```
 
+
+# Dancing Flamme – Brand Customization for Instagram Carousels
+
+These instructions customize the ig-carousel skill for Dancing Flamme. They complement the original carousel workflow and must not replace its technical rules.
+
+## 1. Brand identity
+
+- Brand: Dancing Flamme – The Feeling Good Movement Association.
+- Founder: Giselle Estupinan.
+- Instagram: @dancing_flamme.
+- Location: Gouvieux, near Chantilly, Oise, France.
+- Main activity: Intuitive Dance (Danse Intuitive).
+- Main objective: Build an authentic local community and attract participants to workshops.
+
+Always create content in Giselle's first-person voice when sharing personal experiences.
+
+Before writing, read `~/.claude/instagram/voice.md` if available. Follow its voice, personal story and communication guidelines.
+
+## 2. Carousel objectives
+
+Every carousel must have one clear purpose:
+
+- Introduce Intuitive Dance to people who have never practised it.
+- Explain its philosophy and benefits without making medical claims.
+- Encourage self-expression, creativity and reconnection with the body.
+- Build trust and emotional connection with the local community.
+- Share Giselle's artistic background and personal journey when relevant.
+- Present workshops and encourage participation.
+- Answer common questions and remove barriers to joining.
+
+Prioritize educational, inspirational, personal and community-building content over purely promotional content.
+
+## 3. Core philosophy of Intuitive Dance
+
+The following principles must be respected:
+
+- You do not need to know how to dance.
+- There are no steps to learn or choreography to reproduce.
+- There is no performance, competition or judgment.
+- Everyone moves according to their own sensations, rhythm and imagination.
+- The body becomes a space for expression and exploration.
+- Music supports movement and personal expression.
+- Every participant is free to explore movement in their own way.
+
+Never present Intuitive Dance as a conventional dance class or fitness programme.
+
+Never promise that dance cures illness, trauma or psychological conditions.
+
+## 4. Personal storytelling
+
+Giselle's personal story can inspire carousel content.
+
+Relevant dimensions include:
+
+- Her Colombian roots and the importance of dance in Colombian culture.
+- Her early classical ballet training.
+- Her performances in The Nutcracker and Paquita at Teatro Colón in Bogotá.
+- Her rediscovery of dance following her cancer experience.
+- Her Dance Therapy training at ARTEC in 2023.
+- Her experience facilitating Intuitive Dance workshops in Chantilly.
+- Her involvement with Les Rubans de la Vie (ERC) and the Centre Culturel de Chantilly.
+
+Use personal storytelling with sensitivity and authenticity.
+
+Do not turn every carousel into a personal story. Never invent experiences, quotations or achievements.
+
+Do not use cancer as a sensationalist marketing hook or imply that dance replaces medical treatment.
+
+## 5. Carousel structure and writing style
+
+- Keep the original technical requirement of 6 to 10 slides.
+- Each carousel must communicate one central idea.
+- Slide 1 must create curiosity and give a clear reason to swipe.
+- Slide 2 must establish why the subject matters.
+- Each following slide must add a new idea, question or useful insight.
+- Use short, accessible sentences.
+- Avoid overcrowded slides.
+- Use a natural, warm and conversational tone.
+- Create a logical progression between slides.
+- The final slide must provide a meaningful conclusion and one clear call to action.
+
+Avoid generic motivational statements, excessive spiritual language and aggressive marketing.
+
+## 6. Visual direction
+
+The visual universe should communicate:
+
+- Freedom of movement.
+- Femininity and authenticity.
+- Emotion and human connection.
+- Nature, softness and creativity.
+- Movement rather than performance.
+
+Prioritize authentic photographs and videos from actual Dancing Flamme workshops when available.
+
+Avoid generic fitness imagery, competitive dance poses and overly commercial wellness visuals.
+
+Keep typography readable and visual consistency across slides.
+
+## 7. Language strategy
+
+- French is the default language.
+- Use natural, accessible French suitable for a local French-speaking audience.
+- English and Spanish versions should be created when explicitly requested.
+- Do not mix three languages in the same carousel unless specifically requested.
+- Translations must preserve the emotional meaning and natural tone of the original text.
+
+## 8. Local community and calls to action
+
+The primary audience includes women and men living around Gouvieux, Chantilly, Senlis and neighbouring areas.
+
+When relevant, encourage people to:
+
+- Save the carousel for later.
+- Share it with someone who might enjoy Intuitive Dance.
+- Comment with their feelings or experiences.
+- Discover Dancing Flamme.
+- Join an upcoming workshop.
+- Contact Giselle for practical information.
+
+Use a single, natural call to action per carousel.
+
+Never invent workshop dates, prices, locations or availability. Check the latest confirmed information before including event details.
+
+## 9. Final quality checklist
+
+Before presenting a carousel, verify:
+
+- Is there one clear central idea?
+- Does the cover encourage people to swipe?
+- Is the content relevant to Intuitive Dance?
+- Does it reflect Giselle's voice and Dancing Flamme's identity?
+- Is the language accessible to beginners?
+- Is each slide useful and easy to read?
+- Is the storytelling authentic?
+- Are all factual claims verified?
+- Is the final call to action relevant?
+- Does the carousel complement the existing Instagram content strategy?
+
+Giselle always reviews and approves the final content before publication.
+
+Nothing is published automatically.
+
+
 Nothing is uploaded. The user posts it.
