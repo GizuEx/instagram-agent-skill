@@ -1,79 +1,80 @@
+
 {
   "version": "1.0",
   "total": 100,
-  "note": "Twelve items. Score each honestly - a generous score helps nobody. Most first-pass profiles land in the 30s and 40s. The weighting is deliberate: the name field, the first bio line and the pinned three are worth more than the photo, because they are what a stranger who arrived from one reel actually processes before deciding to follow.",
+  "note": "Evaluate the Instagram profile honestly for Dancing Flamme, a local non-profit association promoting Intuitive Dance. Reward clarity, local discoverability, authenticity and workshop participation. Do not judge the account as a commercial business.",
   "items": [
     {
       "id": "name_field",
       "points": 12,
-      "full_marks": "The name field (30 characters, the bold line, not the handle) carries the name plus what they do in words people search: 'Dana Ruiz | Proposal templates'. This field is indexed by Instagram search and most accounts waste it on a name alone.",
-      "common_fail": "Just a name, or a name with an emoji."
+      "full_marks": "The name field is within Instagram's 30-character limit and combines the brand or activity with searchable French keywords such as Danse Intuitive, Atelier Danse or Chantilly.",
+      "common_fail": "Only the brand name, an unclear expression or unnecessary decorative emojis."
     },
     {
       "id": "bio_first_line",
       "points": 12,
-      "full_marks": "Line one names who this is for and what changes for them, in their words. Not a job title, not a list of adjectives, not three emoji separated by bars.",
-      "common_fail": "'Entrepreneur | Coffee lover | Dog dad'."
+      "full_marks": "The first bio line immediately explains who Intuitive Dance is for and what participants can experience: freedom of movement, self-expression and reconnection with the body.",
+      "common_fail": "Vague inspirational wording without explaining the activity or its audience."
     },
     {
       "id": "bio_body",
       "points": 8,
-      "full_marks": "The rest of the 150 characters carries one piece of proof or one specific offer, and reads as sentences rather than a pipe-separated list.",
-      "common_fail": "Keyword soup, or blank space."
+      "full_marks": "The remaining bio communicates that no dance experience is required, identifies the local area and includes one clear invitation to discover or join a workshop. It respects Instagram's 150-character bio limit.",
+      "common_fail": "Too many ideas, missing location, no clear benefit or no call to action."
     },
     {
       "id": "pinned_three",
       "points": 10,
-      "full_marks": "Three posts pinned to the top of the grid, doing three different jobs: the best proof, the clearest explanation of the offer, and the best introduction to the person. Not the three highest-view posts by accident.",
-      "common_fail": "Nothing pinned, so the top of the grid is whatever was posted last."
+      "full_marks": "Three pinned posts perform different jobs: explain Intuitive Dance, introduce Giselle and her artistic background, and present the workshops with practical participation information.",
+      "common_fail": "No pinned posts, repeated content or posts that do not explain the association to a new visitor."
     },
     {
       "id": "link",
       "points": 8,
-      "full_marks": "One destination that matches what the bio just promised. Up to five links are allowed; more than two is a menu, and a menu converts worse than a door.",
-      "common_fail": "A link tree with eleven options, or no link at all."
+      "full_marks": "The profile link leads directly to a relevant destination: workshop registration, upcoming events or clear contact information. The destination matches the bio's promise.",
+      "common_fail": "Broken link, unrelated destination or too many confusing options."
     },
     {
       "id": "highlights",
       "points": 8,
-      "full_marks": "Four to six highlights named for the questions a buyer actually asks: Pricing, Results, How it works, About. Covers consistent. Nothing older than a year sitting at the front.",
-      "common_fail": "'Random', 'Life', 'Faves', or 14 highlights in no order."
+      "full_marks": "Four to six useful highlights explain the association, workshops, Giselle's story, testimonials and practical information. Titles are short, clear and covers are visually consistent.",
+      "common_fail": "Missing highlights, unclear titles, outdated event information or excessive categories."
     },
     {
       "id": "grid_legibility",
       "points": 8,
-      "full_marks": "The first nine covers are legible at thumbnail size and say what the account is about without a single tap. Reel covers are chosen deliberately, not left as frame one.",
-      "common_fail": "Nine covers of a face mid-word with no text."
+      "full_marks": "The first nine publications communicate a coherent identity: Intuitive Dance, freedom of movement, community, Giselle's personality and workshop opportunities. Reel covers are readable at thumbnail size.",
+      "common_fail": "Inconsistent visuals, unreadable covers or a grid that does not explain what Dancing Flamme offers."
     },
     {
       "id": "photo",
       "points": 6,
-      "full_marks": "Face fills roughly 60% of a circle that renders at about 40 pixels. Eyes visible, shot in the last two years, background not competing.",
-      "common_fail": "A full-body shot, a logo for a personal brand, or a photo taken at arm's length in a dark room."
+      "full_marks": "The profile image is recognizable and readable inside Instagram's circular crop. It uses the official Dancing Flamme logo or another clearly identifiable brand image.",
+      "common_fail": "Low-resolution image, unreadable logo, excessive detail or an image that does not represent the association."
     },
     {
       "id": "handle",
       "points": 6,
-      "full_marks": "Readable, sayable out loud, and the same handle as the other platforms. No stacked underscores or numbers standing in for letters.",
-      "common_fail": "A handle nobody can spell after hearing it once."
+      "full_marks": "The handle @dancing_flamme is consistent, readable and easy to remember and share.",
+      "common_fail": "Confusing spelling, inconsistent account names or unnecessary additional characters."
     },
     {
       "id": "category_contact",
       "points": 6,
-      "full_marks": "Professional account with a category that matches the offer, and contact buttons that work. Email that is checked, not the one from 2019.",
-      "common_fail": "Personal account, so there are no insights and no contact button."
+      "full_marks": "The account uses an appropriate professional category for a non-profit association or community organization. Contact information is accurate and accessible.",
+      "common_fail": "Incorrect category, missing contact information or outdated contact details."
     },
     {
       "id": "recent_activity",
       "points": 10,
-      "full_marks": "Posted in the last seven days and replied to comments on the most recent post. An account that last posted in March reads as closed.",
-      "common_fail": "A five-week gap, or a wall of unanswered comments."
+      "full_marks": "The account shows consistent and realistic activity during the last 30 days, with relevant publications, workshop updates and genuine replies to comments and messages.",
+      "common_fail": "Long periods without activity, outdated workshop announcements or unanswered audience questions."
     },
     {
       "id": "story_presence",
       "points": 6,
-      "full_marks": "A story up right now, or at least most days. It is the difference between a profile and a person.",
-      "common_fail": "No ring, ever."
+      "full_marks": "Stories are published regularly when relevant, showing workshop preparation, movement, community moments, upcoming events and opportunities to interact.",
+      "common_fail": "No recent Stories, no interaction or only repetitive promotional announcements."
     }
   ]
 }
